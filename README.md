@@ -1,4 +1,5 @@
 
-https://img.shields.io/badge/machine-zbook-brightgreen
+![CurrentLocal](https://img.shields.io/badge/machine-zbook-brightgreen)
+
 
 ## image_color
